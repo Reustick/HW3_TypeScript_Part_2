@@ -1,0 +1,22 @@
+{
+  "name": "hwork",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000H\u0000W\u00003\u0000_\u0000T\u0000y\u0000p\u0000e\u0000S\u0000c\u0000r\u0000i\u0000p\u0000t\u0000_\u0000P\u0000a\u0000r\u0000t\u0000_\u00002\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reustick/HW3_TypeScript_Part_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reustick/HW3_TypeScript_Part_2/issues"
+  },
+  "homepage": "https://github.com/Reustick/HW3_TypeScript_Part_2#readme"
+}
